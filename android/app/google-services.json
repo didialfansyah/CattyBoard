@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "309386161679",
+    "project_id": "shoping-4369e",
+    "storage_bucket": "shoping-4369e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309386161679:android:96443aa5d616af9295fd7a",
+        "android_client_info": {
+          "package_name": "com.appfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309386161679-vekn4hsmfvht6d4v1uajttk9mdj9k27i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtGCOaHHFtypSSgPeb3yi32ClhtGcvxho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309386161679-vekn4hsmfvht6d4v1uajttk9mdj9k27i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309386161679:android:710b978de255510495fd7a",
+        "android_client_info": {
+          "package_name": "com.cattyboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309386161679-vekn4hsmfvht6d4v1uajttk9mdj9k27i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtGCOaHHFtypSSgPeb3yi32ClhtGcvxho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309386161679-vekn4hsmfvht6d4v1uajttk9mdj9k27i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
